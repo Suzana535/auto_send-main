@@ -1,0 +1,7 @@
+*.csv
+*.ini
+*.db
+venv
+__pycache__
+.vs
+demo.py
